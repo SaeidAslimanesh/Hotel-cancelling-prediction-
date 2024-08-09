@@ -1,5 +1,5 @@
 # 🏨 Hotel Cancellation Predict and Analysis
-![https://www.fluentu.com/blog/english/wp-content/uploads/sites/4/2023/06/hotel-receptionist-giving-key-to-guest.jpg.webp](image.jpg)
+<img src="https://www.fluentu.com/blog/english/wp-content/uploads/sites/4/2023/06/hotel-receptionist-giving-key-to-guest.jpg.webp" width="1800">
 
 ## 🌐 Overview
 This repository contains a project focused on predicting hotel booking cancellations. The dataset includes a variety of features related to hotel bookings, such as lead time, deposit type, and special requests. The primary objective is to develop a predictive model that accurately determines whether a hotel booking would be canceled. This prediction is essential for hotels as cancellations can significantly impact revenue and operational planning.
